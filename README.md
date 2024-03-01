@@ -8,4 +8,5 @@ You may be interested in:
     (repo is also elsewhere)
   * PyRSB, a Python wrapper for LIBRSB: https://github.com/michelemartone/pyrsb
   * The `mimoch.sh` modulefiles checker: https://github.com/michelemartone/mimoch
+  * The Coccinelle _Semantic Patching_ refactoring tool: https://github.com/coccinelle
 
